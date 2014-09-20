@@ -23,7 +23,7 @@ exec mono $DIR/NzbDrone.exe' | sudo tee --append /etc/init/nzbdrone.conf
 sudo chmod +x /etc/init/nzbdrone.conf
 
 sudo start nzbdrone
-sleep 5 #wait for nzbdrone to initialize db
+sleep 30 #wait for nzbdrone to initialize db
 source /vagrant/settings.sh
 source renderedSettings.sh
 
