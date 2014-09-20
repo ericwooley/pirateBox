@@ -2,10 +2,10 @@
 This is a vagrant box pre setup to use run nzbdrone, couchPotato, and sabnzbd
 
 ## Prerequisites
-1. Download virtualbox
-2. Download vagrant
-3. Get a usenet provider like astraweb
-4. Get a premium usenet indexer like https://www.oznzb.com/
+1. Download [virtualbox](https://www.virtualbox.org/)
+2. Download [vagrant](https://www.vagrantup.com/downloads.html)
+3. Get a usenet provider like [astraweb](http://www.astraweb.com/)
+4. Get a premium usenet indexer like [oznzb](https://www.oznzb.com/)
 
 
 ## Installation
