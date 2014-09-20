@@ -20,7 +20,7 @@ Couch Potato: http://192.168.1.121:5050
 
 NzbDrone: http://192.168.1.121:8989
 
-SabNzbdPlus: http://192.168.1.121:8080
+SabNzbdPlus: http://192.168.1.121:8080 (username: vagrant - password: vagrant)
 
 
 If you don't want your virtual machine to use this address, change it in VagrantFile by modifying this line
